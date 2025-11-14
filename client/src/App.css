@@ -33,8 +33,8 @@ body {
   height: 45px;
   margin: 8px 0;
   padding: 0 10px;
-  background: #121212;
-  border: 1.5px solid #9381e2;
+  background: #151414;
+  border: 1.5px solid #8981ae;
   border-radius: 6px;
   color: #fff;
   outline: none;
@@ -83,7 +83,7 @@ body {
   align-items: center;
   padding-left: 15px;
   font-weight: 600;
-  border-bottom: 1px solid #9381e2;
+  border-bottom: 1px solid #8e84ba;
 }
 
 .chat-body {
@@ -124,7 +124,7 @@ body {
   height: auto;
   min-height: 40px;
   max-width: 120px;
-  background-color: #d79cde;
+  background-color: #a886c4;
   border-radius: 5px;
   color: white;
   display: flex;
@@ -157,7 +157,7 @@ body {
   padding: 0 4px;
 }
 
-/* footer */
+
 .chat-footer {
   height: 50px;
   display: flex;

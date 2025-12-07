@@ -38,7 +38,7 @@ body {
   border-radius: 6px;
   color: #fff;
   outline: none;
-  transition: 0.25s;
+  transition: 0.26s;
 }
 
 .joinChatContainer input:focus {
@@ -159,7 +159,7 @@ body {
 
 
 .chat-footer {
-  height: 50px;
+  height: 51px;
   display: flex;
   border-top: 1px solid #9381e2;
 }
